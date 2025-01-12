@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on "Data Analysis Projects"
 - 💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
 - 📫 How to reach me: v.jadhao2809@gmail.com
-- 👨‍💻 All of my projects are available at my portfolio.
+- 👨‍💻 All of my projects are available at https://campsite.bio/v.jadhao.
 - 📄 Know about my experience
   
 
