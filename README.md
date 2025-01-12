@@ -1,5 +1,4 @@
-- 👋 Hi,
-- I’m Vaishanvi Jadhao
+- 👋 Hi, I’m Vaishanvi Jadhao
 - 😎 I am a "Data Analyst" Fresher.
 - ⭐ Passionate About "Data science and analysis".
 - 🔭 I’m currently working on Portfolio Projects.
